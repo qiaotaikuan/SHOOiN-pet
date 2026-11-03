@@ -1,7 +1,7 @@
 {
   "name": "aesthetic-frog-pet",
   "version": "3.6.0",
-  "description": "审美吉蛙桌宠：效率陪伴型桌面宠物（番茄钟 / 待办 / 喝水久坐提醒）",
+  "description": "桌面陪伴伙伴-小澍SHOOiN（番茄钟 / 待办 / 喝水久坐提醒）",
   "main": "src/main/main.js",
   "scripts": {
     "start": "electron .",
@@ -10,7 +10,7 @@
   },
   "build": {
     "appId": "com.aesthetic.frog.pet",
-    "productName": "审美吉蛙桌宠",
+    "productName": "桌面陪伴伙伴-小澍SHOOiN",
     "directories": {
       "output": "release"
     },
@@ -31,7 +31,7 @@
       "allowToChangeInstallationDirectory": true,
       "createDesktopShortcut": true,
       "createStartMenuShortcut": true,
-      "shortcutName": "审美吉蛙桌宠"
+      "shortcutName": "桌面陪伴伙伴-小澍SHOOiN"
     }
   },
   "devDependencies": {
